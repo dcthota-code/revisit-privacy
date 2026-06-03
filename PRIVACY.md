@@ -103,4 +103,4 @@ the updated policy.
 Questions about this policy? Reach out at:
 
 **Danny Thota**
-📧 [your-email@example.com]
+📧 revisitsupport@gmail.com
