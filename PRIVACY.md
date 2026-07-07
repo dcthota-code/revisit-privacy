@@ -2,7 +2,7 @@
 
 **Last updated: June 2, 2026**
 
-ReVisit ("the app") is developed and operated by Danny Thota. This policy explains what data
+Pingo ("the app") is developed and operated by Danny Thota. This policy explains what data
 the app collects, how it is used, and your rights.
 
 ---
@@ -19,12 +19,12 @@ This information is used solely to back up and sync your saved places across you
 via iCloud/CloudKit. It is never sold or shared with third parties.
 
 ### Location
-ReVisit uses your **precise location** in the background to detect when you are near a
+Pingo uses your **precise location** in the background to detect when you are near a
 saved place. Location data is processed on-device to trigger geofence checks. It is not
 stored on our servers or shared with any third party.
 
 ### Usage and Diagnostic Data
-To improve app quality, ReVisit sends anonymous performance and usage events to
+To improve app quality, Pingo sends anonymous performance and usage events to
 [Sentry](https://sentry.io). This includes:
 - App crashes and errors
 - Notification pipeline performance (e.g. whether a notification fired, anonymous quality scores)
@@ -67,7 +67,7 @@ Third-party services used by the app:
 
 ## Data Retention
 
-Your account data in CloudKit is retained until you delete your account or revoke ReVisit's
+Your account data in CloudKit is retained until you delete your account or revoke Pingo's
 access via **Settings → Apple ID → Password & Security → Apps Using Apple ID**.
 
 Anonymous diagnostic data in Sentry is retained per Sentry's standard retention policy
@@ -78,14 +78,14 @@ Anonymous diagnostic data in Sentry is retained per Sentry's standard retention 
 ## Your Rights
 
 You may request deletion of your account data at any time by:
-1. Revoking access in **Settings → Apple ID → Password & Security → Apps Using Apple ID → ReVisit → Stop Using Apple ID**
+1. Revoking access in **Settings → Apple ID → Password & Security → Apps Using Apple ID → Pingo → Stop Using Apple ID**
 2. Contacting us directly at the email below
 
 ---
 
 ## Children
 
-ReVisit is not directed at children under 13 and does not knowingly collect data from
+Pingo is not directed at children under 13 and does not knowingly collect data from
 children under 13.
 
 ---
@@ -103,4 +103,4 @@ the updated policy.
 Questions about this policy? Reach out at:
 
 **Danny Thota**
-📧 revisitsupport@gmail.com
+📧 Pingosupport@gmail.com
