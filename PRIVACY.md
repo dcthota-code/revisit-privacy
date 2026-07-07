@@ -1,4 +1,4 @@
-# Privacy Policy for ReVisit – Smart Place Alerts
+# Privacy Policy for Pingo – Smart Place Alerts
 
 **Last updated: June 2, 2026**
 
